@@ -1,0 +1,15 @@
+Standard Java file. Run:
+
+javac SchoolSearch.java
+
+then:
+
+java SchoolSearch
+
+Syntax of New Search Commands
+    1. G:/Grade: <number> 
+         - list all students in specified grade.
+    2. CT:/ClassroomTeacher: <number>
+         - list all teachers that teach in the specified classroom
+    3. GT:/GradeTeacher: <number>
+         - list all teachers that teach the specified grade
